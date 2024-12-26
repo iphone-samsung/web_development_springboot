@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="560ec2d5-0c2a-4074-8465-b39bc47ebaf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter00/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qkK3ffXhMJrqcvHwjeVglZbk9w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.chapter01 [:me.parkgunwoo.springbootdeveloper.SpringBootDeveloperApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/parkgunwoo/parkgunwoo_springboot/chapter01/src/main/resources&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/parkgunwoo/parkgunwoo_springboot/chapter01/src/main/java/me/parkgunwoo/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\parkgunwoo\parkgunwoo_springboot\chapter01\src\main\resources" />
+      <recent name="C:\parkgunwoo\parkgunwoo_springboot\chapter01\src\main\java\me\parkgunwoo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.parkgunwoo.springbootdeveloper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootDeveloperApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.parkgunwoo.springbootdeveloper.SpringBootDeveloperApplication" />
+      <module name="chapter01.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.parkgunwoo.springbootdeveloper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootDeveloperApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="560ec2d5-0c2a-4074-8465-b39bc47ebaf3" name="Changes" comment="" />
+      <created>1735200938941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735200938941</updated>
+    </task>
+    <servers />
+  </component>
+</project>
